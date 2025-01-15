@@ -1,0 +1,4 @@
+"AadClientId": "4438df41-5d72-40cc-b511-483d0d3a3d2b",
+"AadSecret": "b8e61e56-4aef-47c9-b2bf-42e0ab2774a1",
+"AadTenantDomain": "interactivenp.onmicrosoft.com",
+"AadTenantId": "a66f3820-0210-4769-b7e9-b8be0d2a3d3a" ,
